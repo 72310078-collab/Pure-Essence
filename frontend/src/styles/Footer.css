@@ -1,0 +1,42 @@
+
+
+.footer-container {
+  background-color: #ffffff;
+  border-top: 2px solid #94762f;
+  padding: 20px 0;
+}
+
+.footer-text {
+  color: #94762f;
+  font-weight: 600;
+  letter-spacing: 1px;
+  margin: 0;
+}
+
+.footer-icons a {
+  color: #94762f;
+  font-size: 3rem;
+  transition: 0.3s ease, color 0.3s ease;
+}
+
+.footer-icons a:hover {
+  color:#94762f; 
+   transform: scale(1.2);
+}
+
+.footer-contact {
+  font-size: 14px;
+}
+
+.footer-contact a {
+  color: #94762f;
+  text-decoration: none;
+}
+
+.footer-contact a:hover {
+  text-decoration: underline;
+}
+
+.footer-contact-line .MuiSvgIcon-root {
+  color: #94762f !important;
+}
