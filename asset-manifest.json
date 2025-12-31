@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Pure-Essence/static/css/main.4851731f.css",
+    "main.js": "/Pure-Essence/static/js/main.0eb5d243.js",
+    "static/js/453.9799b89c.chunk.js": "/Pure-Essence/static/js/453.9799b89c.chunk.js",
+    "static/media/header.jpg": "/Pure-Essence/static/media/header.047972e3155c56b52ecb.jpg",
+    "static/media/yslwomen.jpg": "/Pure-Essence/static/media/yslwomen.7c7e7b72b74646aba579.jpg",
+    "static/media/diorwomen.jpg": "/Pure-Essence/static/media/diorwomen.ab18c1ff0d4af66abd46.jpg",
+    "static/media/yslmen.jpg": "/Pure-Essence/static/media/yslmen.08607a123333c6bf88a3.jpg",
+    "static/media/diormen.jpg": "/Pure-Essence/static/media/diormen.875e5f8717b9cbe8b10c.jpg",
+    "static/media/gucciwomen.jpg": "/Pure-Essence/static/media/gucciwomen.026728731aad9cc9a8ed.jpg",
+    "static/media/versacemen.jpg": "/Pure-Essence/static/media/versacemen.fc34cf312d953032a84d.jpg",
+    "static/media/armanimen.jpg": "/Pure-Essence/static/media/armanimen.8f591d15beb3da4a610b.jpg",
+    "static/media/versacewomen.jpg": "/Pure-Essence/static/media/versacewomen.8ea74bbab42cb45990ca.jpg",
+    "static/media/armaniwomen.jpg": "/Pure-Essence/static/media/armaniwomen.b79543d9a00643f55e35.jpg",
+    "static/media/guccimen.jpg": "/Pure-Essence/static/media/guccimen.399b7c8548fae48dd427.jpg",
+    "static/media/chanelwomen.jpg": "/Pure-Essence/static/media/chanelwomen.081d897fd6b5e9268f8f.jpg",
+    "static/media/h.jpg": "/Pure-Essence/static/media/h.a850ed2aedc8565e3ff7.jpg",
+    "static/media/yslLogo.jpg": "/Pure-Essence/static/media/yslLogo.1d24397792637cdac5a6.jpg",
+    "static/media/chanelmen.jpg": "/Pure-Essence/static/media/chanelmen.7243954135bc5406609f.jpg",
+    "static/media/versaceLogo.jpg": "/Pure-Essence/static/media/versaceLogo.64f16c7df19b3716a86a.jpg",
+    "static/media/armaniLogo.jpg": "/Pure-Essence/static/media/armaniLogo.11bae978599f876b0da3.jpg",
+    "static/media/chanelLogo.jpg": "/Pure-Essence/static/media/chanelLogo.c3cf9543dddaa725f46d.jpg",
+    "index.html": "/Pure-Essence/index.html",
+    "main.4851731f.css.map": "/Pure-Essence/static/css/main.4851731f.css.map",
+    "main.0eb5d243.js.map": "/Pure-Essence/static/js/main.0eb5d243.js.map",
+    "453.9799b89c.chunk.js.map": "/Pure-Essence/static/js/453.9799b89c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4851731f.css",
+    "static/js/main.0eb5d243.js"
+  ]
+}
