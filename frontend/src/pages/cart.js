@@ -17,7 +17,7 @@ function Cart() {
           <p className="page-subtitle">Your cart is empty.</p>
         ) : (
           <div className="row g-4">
-            {/* LEFT: cart items */}
+            
             <div className="col-lg-8">
               <div className="card border-0 shadow-sm mb-3">
                 <div className="card-body">
@@ -42,7 +42,6 @@ function Cart() {
                         </div>
                       </div>
 
-                      {/* qty + remove */}
                       <div className="d-flex align-items-center gap-2">
                         <button
                           className="btn btn-sm btn-outline-secondary"
@@ -78,7 +77,6 @@ function Cart() {
               </div>
             </div>
 
-            {/* RIGHT: summary */}
             <div className="col-lg-4">
               <div className="card border-0 shadow-sm contact-box">
                 <div className="card-body">

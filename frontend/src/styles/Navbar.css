@@ -68,6 +68,12 @@
     transform: translateY(0);
   }
 }
+.auth-welcome {
+  color: #94762f;
+  font-family: "Georgia", "Times New Roman", serif;
+  font-weight: 700;
+  white-space: nowrap;
+}
 
 
 
